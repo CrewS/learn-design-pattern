@@ -10,6 +10,6 @@ const test2 = () => {
   opAdd.b = 2;
   opSub.a = 123;
   opSub.b = 2;
-  console.log(opAdd.getResult(),opSub.getResult() );
+  console.log(opAdd.getResult(), opSub.getResult());
 };
-test2()
+test2();

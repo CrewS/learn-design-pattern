@@ -10,6 +10,6 @@ exec(
       return;
     }
     console.log(`运行chapter${chapter}输出：\n ${stdout}`);
-  },
+  }
 );
 // console.log("result", result);
